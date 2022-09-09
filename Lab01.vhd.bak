@@ -1,0 +1,18 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity LAB01 is 
+port(
+	A, B: in bit;
+	S1, S2: out bit
+);
+end LAB01;
+
+architecture main of LAB01 is 
+
+begin 
+
+	S1 <= A or B;
+	S2 <= A and B;
+
+end architecture main;

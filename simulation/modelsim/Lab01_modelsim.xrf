@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/MATRIZLABD42022.1/Documents/DOCS_J/Lab01.vhd
+source_file = 1, C:/Users/MATRIZLABD42022.1/Documents/DOCS_J/db/Lab01.cbx.xml
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = LAB01
+instance = comp, \S1~output\, S1~output, LAB01, 1
+instance = comp, \S2~output\, S2~output, LAB01, 1
+instance = comp, \A~input\, A~input, LAB01, 1
+instance = comp, \B~input\, B~input, LAB01, 1
+instance = comp, \S1~0\, S1~0, LAB01, 1
+instance = comp, \S2~0\, S2~0, LAB01, 1
+instance = comp, \C~input\, C~input, LAB01, 1
